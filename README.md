@@ -1,4 +1,4 @@
-# Examples folder
+# Parallel processing examples
 
 This folder contains the subfolders that demonstrate:
 - use of shared memory, using pthreads;
@@ -10,4 +10,5 @@ Future plans include heterogeneous programming.
 
 
 Each folder contains simple C programs and shell scripts allowing the verification of the correct installation of tools.
+
 
